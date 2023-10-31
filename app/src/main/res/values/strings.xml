@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">quizapp</string>
+    <string name="title_app">Quiz app</string>
+    <string name="none">Trống</string>
+</resources>
